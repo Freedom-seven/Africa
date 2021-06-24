@@ -1,0 +1,59 @@
+/* navbar */
+.countries-navbar {
+    background-color: greenyellow;
+}
+
+.nav-home {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+
+.navbar-home {
+    background-color: teal;
+}
+
+/* carousel */
+.countris-carousel {
+    background-color: gold;
+}
+
+.carousel-index {
+	height: 500px;
+	background-color: cornsilk;
+	color: black;
+}
+
+.carousel-description {
+	text-align: center;
+	margin-top: 10rem;
+}
+
+/* countries-content */
+.countries-content {
+    background-color: #e6e6e6;
+}
+
+.content {
+    background-color: #e1eaea;
+    align-content: center;
+    justify-content: center;
+}
+
+.content h2 {
+    padding-top: 2rem;
+}
+
+.content h3 {
+    padding-top: 2rem;
+}
+
+.rich-culture img{
+	height: 15rem;
+	width: 30rem;
+}
+
+/* conutries footer */
+.countries-footer {
+    background-color: #e6e6e6;
+    padding: 2rem;
+}
