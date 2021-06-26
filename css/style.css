@@ -52,8 +52,12 @@
 	z-index: 20;
 	color: white;
 	background-color: rgba(58, 58, 48,0.3);
-	height: auto;
+	height: 19rem;
 	}
+
+.carousel-description p {
+		
+}
 
 
 /* map area */
