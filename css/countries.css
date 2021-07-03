@@ -69,6 +69,11 @@
 	width: 30rem;
 }
 
+.img-kente {
+    height: 50rem;
+    width: 100%;
+}
+
 /* conutries footer */
 .countries-footer {
     background-color: #e6e6e6;
