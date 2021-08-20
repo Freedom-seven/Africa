@@ -35,11 +35,15 @@
 
 .carousel-index {
 	position: relative;
-	height: 45rem;
+	height: auto;
 	color: black;
 	background-position: center;
 	padding: 0px;
 	margin: 0px;
+}
+
+.carousel-index .img-responsive {
+	height: 45rem;
 }
 
 .carousel-description {
