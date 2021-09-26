@@ -1,0 +1,35 @@
+button {
+    font: optional;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.top-img {
+    border-radius: 50%;
+    height: 3rem;
+    width: 4rem;
+    margin:  0 1rem ;
+}
+
+.leader-img {
+    width: 20rem;
+    height: 25vh;
+    margin: 1rem;
+}
+
+
+
+.accordion-item {
+    background-color: #f0ede7;
+}
+
+body {
+    margin-bottom: 20rem;
+}
