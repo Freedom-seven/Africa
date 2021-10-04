@@ -220,6 +220,16 @@
   width: 10rem;
 }
 
+.leaders-read {
+  text-transform: capitalize;
+  text-shadow: #000 15px 10px 5px;
+  color: #fff;
+}
+
+.leaders-read:hover {
+ color: #000036;
+}
+
 /* freedom logo in footer */
 .footer-logo {
   font-family: "Frijole", cursive;
